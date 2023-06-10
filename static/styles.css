@@ -1,0 +1,22 @@
+body{
+    background-color: #FCE9F1;
+}
+
+.title{
+    background-color: #9336B4;
+}
+
+.navbar-brand{
+    color: #F8F1F1;
+}
+
+.task-input{
+    margin: .5% .5% .5% .5%;
+}
+
+.btn{
+    margin: .25% auto .25% auto;
+}
+ul{
+    list-style: none;
+}
